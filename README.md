@@ -21,8 +21,4 @@ https://gradle.org/
 **or for Windows**
 
     gradlew.bat run
-    
-## Code Style
-
-I have begun to limit my use of     
- 
+     
