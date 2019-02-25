@@ -30,7 +30,7 @@ https://gradle.org/
   * My code process is to rapidly write out as much code as I can / then refactor
   * High emphasis on readability
 
-I find writing 2 hour code tests frustrating / because even for a simple project it is very difficult to get it all "right" / and my process sometimes takes a lot longer at start as I try to invest in making the code flexible and testable as well as I believe in continuous refactoring and modelling in code and the debugger to see how things interact. Often it takes more than two horus.
+I find writing 2 hour code tests frustrating / because even for a simple project it is very difficult to get it all "right" / and my process sometimes takes a lot longer at start as I try to invest in making the code flexible and testable as well as I believe in continuous refactoring and modelling in code and the debugger to see how things interact. Often it takes more than two hours.
 
 
 
